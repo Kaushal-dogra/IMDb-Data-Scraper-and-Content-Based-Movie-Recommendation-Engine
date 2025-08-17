@@ -4,7 +4,6 @@
 
 Content Based Movie Recommendation & IMDb Dataset Generator.
 
-![Demo](/screenshots/recomovi.png)
 
 ### Overview
 - Configurable scraper for realtime dataset and keyword generation.
@@ -17,5 +16,5 @@ The web scraper can be run from the terminal as well. It will download the data 
 ```bash
 python3 -m scrape_imdb
 ```
-![Terminal](/screenshots/terminal.png)
+
 
