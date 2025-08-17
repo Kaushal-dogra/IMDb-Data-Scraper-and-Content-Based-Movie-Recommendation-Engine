@@ -11,6 +11,7 @@ Content Based Movie Recommendation & IMDb Dataset Generator.
 - Rake to extract keywords from plot summary.
 - Cosine Similarity Index to filter top 10 similar movies.
 - Frontend created using Streamlit.
+- Built content-based recommender using NLTK, CountVectorizer, cosine similarity giving top-10 suggestions
 
 The web scraper can be run from the terminal as well. It will download the data and keywords in the datasets folder.
 ```bash
